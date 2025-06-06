@@ -1,16 +1,66 @@
-# flutter_news_app
+# 📱 Flutter News App
 
-A new Flutter project.
+A simple yet elegant Flutter-based mobile app for reading news using a WebView. Designed to be lightweight, fast, and customizable.
 
-## Getting Started
+![Flutter](https://img.shields.io/badge/Flutter-v3.8.1-blue.svg)
+![License](https://img.shields.io/badge/license-MIT-green.svg)
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- 📰 Display web-based news in an in-app browser.
+- 💾 Cached images for improved performance.
+- 🌐 Load any news site with ease using WebView.
+- 📦 Clean UI and modular structure.
+- 📱 Android compatible (iOS support can be added).
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 📷 Screenshots
+
+> _Add screenshots here if available (e.g., under `assets/screenshots/`)._
+
+---
+
+## 🛠️ Installation
+
+### Prerequisites
+
+- [Flutter SDK](https://flutter.dev/docs/get-started/install)
+- Android Studio or VS Code
+- Android device or emulator
+
+### Clone the Repository
+
+```bash
+git clone https://github.com/your-username/flutter_news_app.git
+cd flutter_news_app
+```
+
+### Install Dependencies
+```bash
+flutter pub get
+```
+
+### 🔖 App Icon & Name
+The app icon and display name have been customized using the flutter_launcher_icons package.
+Make sure to run:
+```bash
+flutter run flutter_launcher_icons
+```
+
+### Run the app
+```bash
+flutter run
+```
+
+### 📲 APK Build
+To build a release APK for sharing:
+```bash
+flutter build apk --release
+```
+Find your APK at:
+build/app/outputs/flutter-apk/app-release.apk
+
+Let me know if you want the README customized further (e.g., screenshots, additional features, license text).
