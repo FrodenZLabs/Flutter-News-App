@@ -63,4 +63,16 @@ flutter build apk --release
 Find your APK at:
 build/app/outputs/flutter-apk/app-release.apk
 
+## Download APK
+Here is the apk:
+[Labs News Hub](https://github.com/FrodenZLabs/Flutter-News-App/releases/download/v1.0.0/LabsNewsHub.apk)
+
+## 📥 Download the App
+
+You can download and install the latest version of the Flutter News App by clicking the link below:
+
+👉 [**Download APK**](https://github.com/FrodenZLabs/Flutter-News-App/releases/download/v1.0.0/LabsNewsHub.apk)
+
+> Note: You may need to allow installs from unknown sources on your Android device.
+
 Let me know if you want the README customized further (e.g., screenshots, additional features, license text).
